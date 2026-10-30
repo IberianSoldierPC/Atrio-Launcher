@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/IberianSoldierPC/Atrio-Launcher/releases/latest"><img alt="Última versión" src="https://img.shields.io/github/v/release/IberianSoldierPC/Atrio-Launcher?label=versi%C3%B3n&color=F4A259"></a>
-  <a href="https://github.com/IberianSoldierPC/Atrio-Launcher/releases"><img alt="Descargas" src="https://img.shields.io/github/downloads/IberianSoldierPC/Atrio-Launcher/total?label=descargas&color=E0623F"></a>
+  <a href="https://github.com/IberianSoldierPC/Atrio-Launcher/releases/latest"><img alt="Última versión" src="https://img.shields.io/github/v/release/IberianSoldierPC/Atrio-Launcher?label=versi%C3%B3n&color=F4A259&cacheSeconds=3600"></a>
+  <a href="https://github.com/IberianSoldierPC/Atrio-Launcher/releases"><img alt="Descargas" src="https://img.shields.io/github/downloads/IberianSoldierPC/Atrio-Launcher/total?label=descargas&color=E0623F&cacheSeconds=3600"></a>
   <img alt="Android TV y Google TV" src="https://img.shields.io/badge/Android%20TV%20%C2%B7%20Google%20TV-6.0%2B-3DDC84?logo=android&logoColor=white">
   <img alt="Idiomas" src="https://img.shields.io/badge/idiomas-espa%C3%B1ol%20%C2%B7%20English-5C6BC0">
 </p>
