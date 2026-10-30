@@ -74,8 +74,6 @@ adb shell cmd notification allow_listener com.atrio.tv/com.atrio.tv.services.Not
 
 Cuando sale una versión nueva, Atrio lo avisa en la cabecera de la pantalla de inicio. Descarga el APK nuevo e instálalo encima: todas las versiones van firmadas con la misma clave, así que **se conservan los ajustes**.
 
-> La versión mínima recomendada es la **1.1.7**, que corrige la seguridad del mando web. Si tienes una anterior, instálala a mano una vez.
-
 ## 🛡️ Privacidad
 
 Atrio no incluye analítica, publicidad ni rastreadores, y no pide cuentas. Solo se conecta a internet para las funciones que tú actives:
@@ -106,7 +104,7 @@ Comprueba que el servicio de accesibilidad de Atrio está activo (ver [Instalaci
 
 ## 📝 Versiones
 
-Las novedades de cada versión están en [Releases](https://github.com/IberianSoldierPC/Atrio-Launcher/releases). Solo se publican versiones actuales: las anteriores a la 1.1.7 se retiraron por un fallo de seguridad en el mando web.
+La **2.0.0** es la primera versión pública. Las novedades de cada versión están en [Releases](https://github.com/IberianSoldierPC/Atrio-Launcher/releases).
 
 ---
 
