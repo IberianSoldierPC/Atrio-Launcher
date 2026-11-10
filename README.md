@@ -36,7 +36,7 @@ Atrio sustituye la pantalla de inicio de tu Android TV o Google TV por una propi
 | 🗂️ **Categorías automáticas** | Juegos, vídeo, música, apps de TV, recientes, más usadas, sistema, TV en directo y «reproduciendo ahora», además de las tuyas propias. |
 | 🎨 **Fondos y temas** | Color, degradado, imagen, vídeo en bucle, GIF o Lottie. Imagen del día de Bing, NASA, Wikimedia, Unsplash, Reddit, Immich, vídeos aéreos o una carpeta propia. Temas predefinidos, exportables e importables. |
 | 🧩 **Iconos** | Paquetes de iconos (formato ADW/Nova), global o por app; renombra, oculta o cambia el icono de cualquier app. |
-| 🌤️ **Widgets** | Reloj y fecha, tiempo (con ficha detallada y avisos meteorológicos), red y velocidad, almacenamiento, notificaciones, RSS, calendario y marcador de tu equipo de fútbol. Con una VPN activa, su icono abre los datos de la conexión y permite desconectarla. |
+| 🌤️ **Widgets** | Reloj y fecha, tiempo (con ficha detallada y avisos meteorológicos), red y velocidad, almacenamiento, notificaciones, batería del mando Bluetooth, RSS, calendario y marcador de tu equipo de fútbol. Con una VPN activa, su icono abre los datos de la conexión y permite desconectarla. |
 | 🎮 **Mando y atajos** | Cualquier botón con pulsación corta, doble o larga. El botón Inicio abre Atrio directamente. Menú rápido con buscador de ajustes. |
 | 📱 **Mando web** | Desde el móvil: envía enlaces a la TV, controla volumen y reproducción y edita la pantalla de inicio. |
 | 🔒 **Control parental** | PIN, apps bloqueadas, franja horaria y ajustes protegidos. |
@@ -85,6 +85,8 @@ Atrio no incluye analítica, publicidad ni rastreadores, y no pide cuentas. Solo
 - **Prueba de velocidad:** Cloudflare, solo cuando la lanzas.
 - **Aviso de actualización:** la API pública de GitHub, como mucho cada 12 horas.
 
+La batería del mando se lee directamente del mando por Bluetooth, sin internet. En Android 12 o posterior necesita el permiso «Dispositivos cercanos», que Atrio pide una sola vez y solo usa para eso.
+
 El mando web funciona solo dentro de tu red local, está apagado hasta que lo activas y pide un código aleatorio de 6 cifras que se muestra en la TV. Tras 5 intentos fallidos seguidos, el dispositivo que lo intenta queda bloqueado un tiempo creciente.
 
 Los ajustes de Atrio no se incluyen en las copias ADB del sistema; solo salen de la TV con la copia de seguridad que exportes tú.
@@ -111,6 +113,6 @@ La **2.0.0** es la primera versión pública. Las novedades de cada versión est
 
 ## English
 
-**Atrio** is a free, customizable home screen for Android TV and Google TV (Android 6.0+), with no ads and no analytics. It brings category rows, animated wallpapers (Bing, NASA, Unsplash, Immich, aerial videos…), header widgets (clock, weather, network, football scores), icon packs, remote-button shortcuts, a phone web remote, parental controls and full backups. The interface is available in English and Spanish.
+**Atrio** is a free, customizable home screen for Android TV and Google TV (Android 6.0+), with no ads and no analytics. It brings category rows, animated wallpapers (Bing, NASA, Unsplash, Immich, aerial videos…), header widgets (clock, weather, network, Bluetooth remote battery, football scores), icon packs, remote-button shortcuts, a phone web remote, parental controls and full backups. The interface is available in English and Spanish.
 
 **Install:** download `Atrio-X.Y.Z.apk` from the [latest release](https://github.com/IberianSoldierPC/Atrio-Launcher/releases/latest), install it with a file manager or `adb install -r`, open Atrio and follow the welcome screen (set it as the default launcher and enable its accessibility service). New versions install on top and keep your settings; Atrio shows a notice on the home screen when one is available.
