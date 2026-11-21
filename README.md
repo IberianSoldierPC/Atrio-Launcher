@@ -34,7 +34,7 @@ Atrio sustituye la pantalla de inicio de tu Android TV o Google TV por una propi
 |---|---|
 | 🧭 **Inicio a tu medida** | Filas por categoría, «Seguir viendo», canales de las apps, accesos directos y «Todas las apps». Reordena y ajusta cada fila con el mando desde su engranaje. |
 | 🗂️ **Categorías automáticas** | Juegos, vídeo, música, apps de TV, recientes, más usadas, sistema, TV en directo y «reproduciendo ahora», además de las tuyas propias. |
-| 🎨 **Fondos y temas** | Color, degradado, imagen, vídeo en bucle, GIF o Lottie. Imagen del día de Bing, NASA, Wikimedia, Unsplash, Reddit, Immich, vídeos aéreos o una carpeta propia. Temas predefinidos, exportables e importables. |
+| 🎨 **Fondos y temas** | Color, degradado, imagen, vídeo en bucle, GIF o Lottie. Imagen del día de Bing, NASA, Wikimedia, Unsplash, Immich, vídeos aéreos o una carpeta propia. Temas predefinidos, exportables e importables. |
 | 🧩 **Iconos** | Paquetes de iconos (formato ADW/Nova), global o por app; renombra, oculta o cambia el icono de cualquier app. |
 | 🌤️ **Widgets** | Reloj y fecha, tiempo (con ficha detallada y avisos meteorológicos), red y velocidad, almacenamiento, notificaciones, batería del mando Bluetooth, RSS, calendario y marcador de tu equipo de fútbol. Con una VPN activa, su icono abre los datos de la conexión y permite desconectarla. |
 | 🎮 **Mando y atajos** | Cualquier botón con pulsación corta, doble o larga. El botón Inicio abre Atrio directamente. Menú rápido con buscador de ajustes. |
@@ -80,7 +80,7 @@ Atrio no incluye analítica, publicidad ni rastreadores, y no pide cuentas. Solo
 
 - **Tiempo:** Open-Meteo (y, solo si la activas, la ubicación aproximada por IP con ipwho.is). Si activas los avisos meteorológicos, MeteoAlarm; su mapa de zonas se descarga de GitLab una vez y se renueva cada 90 días.
 - **Marcador:** ESPN y TheSportsDB.
-- **Fondos:** la fuente que elijas (Bing, NASA, Wikimedia, Unsplash, Reddit, tu servidor Immich…).
+- **Fondos:** la fuente que elijas (Bing, NASA, Wikimedia, Unsplash, tu servidor Immich…).
 - **VPN:** ipwho.is, solo al abrir el panel de la VPN, para mostrar la IP pública y el país.
 - **Prueba de velocidad:** Cloudflare, solo cuando la lanzas.
 - **Aviso de actualización:** la API pública de GitHub, como mucho cada 12 horas.
